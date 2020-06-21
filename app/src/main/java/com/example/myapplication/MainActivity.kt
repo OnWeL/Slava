@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
 
     fun Air(Bund:String){
         Toast.makeText(this,Bund,Toast.LENGTH_LONG)
-        wick=0
+        wick=5
     }
 
 }
